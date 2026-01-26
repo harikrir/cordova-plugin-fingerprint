@@ -15,7 +15,7 @@
     </engines>
 
     <js-module src="www/FingerPrint.js" name="FingerPrint">
-        <clobbers target="fingerprint" />
+        <clobbers target="FingerPrintBH" />
     </js-module>
 
 
